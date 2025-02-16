@@ -59,4 +59,4 @@ Este proyecto presenta un globo interactivo en 3D ambientado en París, desarrol
 
 ---
 
-Esta documentación en Markdown describe de forma clara y concisa el funcionamiento y las principales características del globo interactivo. Puedes personalizar los enlaces, imágenes y detalles adicionales según las necesidades de tu proyecto.
+
