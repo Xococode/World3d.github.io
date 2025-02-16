@@ -1,0 +1,9 @@
+{
+  "points": [
+    { "lat": 35.6895, "lng": 139.6917, "baseSize": 0.5, "oscillationAmplitude": 0.3, "oscillationFrequency": 1, "color": "cyan" },
+    { "lat": -12.0464, "lng": -77.0428, "baseSize": 0.4, "oscillationAmplitude": 0.2, "oscillationFrequency": 1.2, "color": "yellow" },
+    { "lat": 48.8566, "lng": 2.3522, "baseSize": 0.3, "oscillationAmplitude": 0.25, "oscillationFrequency": 0.8, "color": "magenta" },
+    { "lat": 40.7128, "lng": -74.0060, "baseSize": 0.2, "oscillationAmplitude": 0.15, "oscillationFrequency": 1.5, "color": "blue" },
+    { "lat": 19.4326, "lng": -99.1332, "baseSize": 0.5, "oscillationAmplitude": 0.35, "oscillationFrequency": 0.9, "color": "green" }
+  ]
+}

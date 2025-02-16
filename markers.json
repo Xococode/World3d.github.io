@@ -1,0 +1,95 @@
+{
+    "markers": [
+      {
+        "lat": 35.6895,
+        "lng": 139.6917,
+        "size": 2,
+        "color": "red",
+        "radius": 101,
+        "label": {
+          "text": "Tokio",
+          "link": "https://en.wikipedia.org/wiki/Tokyo",
+          "color": "yellow",
+          "linkColor": "cyan",
+          "fontSize": "12px",
+          "background": "rgba(0,0,0,0.5)",
+          "padding": "2px 4px",
+          "borderRadius": "4px",
+          "offsetY": 5
+        }
+      },
+      {
+        "lat": 40.7128,
+        "lng": -74.0060,
+        "size": 2,
+        "color": "blue",
+        "radius": 101,
+        "label": {
+          "text": "Nueva York",
+          "link": "https://en.wikipedia.org/wiki/New_York_City",
+          "color": "white",
+          "linkColor": "blue",
+          "fontSize": "12px",
+          "background": "rgba(0,0,0,0.5)",
+          "padding": "2px 4px",
+          "borderRadius": "4px",
+          "offsetY": 5
+        }
+      },
+      {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "size": 2,
+        "color": "green",
+        "radius": 101,
+        "label": {
+          "text": "Londres",
+          "link": "https://en.wikipedia.org/wiki/London",
+          "color": "white",
+          "linkColor": "green",
+          "fontSize": "12px",
+          "background": "rgba(0,0,0,0.5)",
+          "padding": "2px 4px",
+          "borderRadius": "4px",
+          "offsetY": 5
+        }
+      },
+      {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "size": 2,
+        "color": "purple",
+        "radius": 101,
+        "label": {
+          "text": "París",
+          "link": "https://en.wikipedia.org/wiki/Paris",
+          "color": "white",
+          "linkColor": "purple",
+          "fontSize": "12px",
+          "background": "rgba(0,0,0,0.5)",
+          "padding": "2px 4px",
+          "borderRadius": "4px",
+          "offsetY": 5
+        }
+      },
+      {
+        "lat": -33.8688,
+        "lng": 151.2093,
+        "size": 2,
+        "color": "orange",
+        "radius": 101,
+        "label": {
+          "text": "Sídney",
+          "link": "https://en.wikipedia.org/wiki/Sydney",
+          "color": "white",
+          "linkColor": "orange",
+          "fontSize": "12px",
+          "background": "rgba(0,0,0,0.5)",
+          "padding": "2px 4px",
+          "borderRadius": "4px",
+          "offsetY": 5
+        }
+      }
+    ]
+  }
+  
